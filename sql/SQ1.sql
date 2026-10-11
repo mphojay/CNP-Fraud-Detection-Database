@@ -1,0 +1,4 @@
+-- Show all the fraud analysts in the database
+
+SELECT ANALYST_ID, ANALYST_FNAME, ANALYST_LNAME, ANALYST_EMAIL
+FROM FRAUD_ANALYST;

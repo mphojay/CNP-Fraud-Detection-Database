@@ -1,0 +1,9 @@
+FACTOR_ID,FACTOR_NAME,FACTOR_DESCRIPTION
+1,Unusually High Transaction Amount,Transaction amount is unusually high compared with typical transactions.
+2,Multiple Transactions on Same Day,Customer made multiple transactions within the same day.
+3,Unusual Transaction Time,Transaction occurred at an unusual time of day.
+4,High-Risk Transaction Channel,Transaction was made through a channel associated with elevated risk.
+5,Frequent Customer Transactions,Customer has an unusually high transaction frequency.
+6,Abnormal Transaction Pattern,Transaction behaviour differs from the customer's usual pattern.
+7,High Value Relative to Customer History,Transaction amount is significantly higher than the customer's historical average.
+8,Unusual Weekend Activity,Transaction occurred during a weekend period.

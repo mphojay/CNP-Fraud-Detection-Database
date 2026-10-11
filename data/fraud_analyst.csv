@@ -1,0 +1,11 @@
+ANALYST_ID,INSTITUTION_ID,ANALYST_LNAME,ANALYST_FNAME,ANALYST_EMAIL
+1,1,Anderson,Liam,landerson@fraudbank.ac.za
+2,1,Bennett,Olivia,obennett@fraudbank.ac.za
+3,2,Carter,Ethan,ecarter@fraudbank.ac.za
+4,2,Daniels,Mia,mdaniels@fraudbank.ac.za
+5,3,Edwards,Noah,nedwards@fraudbank.ac.za
+6,3,Foster,Ava,afoster@fraudbank.ac.za
+7,4,Graham,Lucas,lgraham@fraudbank.ac.za
+8,4,Harrison,Emma,eharrison@fraudbank.ac.za
+9,5,Johnson,Mason,mjohnson@fraudbank.ac.za
+10,5,King,Sophia,sking@fraudbank.ac.za
