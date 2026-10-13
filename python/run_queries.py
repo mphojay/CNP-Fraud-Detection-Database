@@ -1,3 +1,13 @@
+#Data Rangers 
+#4344603
+#4334885
+#449272
+#4352698
+#4476498
+#4469626
+#Python file: run_queries.py
+
+
 import os
 import mysql.connector
 from dotenv import load_dotenv
